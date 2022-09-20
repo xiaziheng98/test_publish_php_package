@@ -1,0 +1,13 @@
+{
+    "name": "xiamo1998/package",
+    "description": "A PHP package template repository.",
+    "license": "MIT",
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "xzh\\": "xzh/"
+        }
+    }
+}
